@@ -1,2 +1,2 @@
 # TIC-TAC_TOE
-Used by Jupiter NoteBook
+Used in Jupiter NoteBook
